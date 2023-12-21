@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: #385170;
+    color: white;
+}
+
+form{
+    width: 300px;
+    background-color: #142D4C;
+    position: absolute;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+
+h1{
+    color: #9FD3C7;
+}
+
+.form-items{
+    margin: 20px auto;
+    display: block;
+    padding: 10px;
+    width: 250px;
+}
+
+.btn{
+    font-size: 20px;
+    background-color: #9FD3C7;
+}
+
+.linkWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.signup{
+    color:  #9FD3C7;
+}
